@@ -77,14 +77,14 @@ This project is hosted on a free hosting platform and requires no specific hardw
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/HaridasKhambe/Grampanchayat-Tax-Management-System.git)>
    ```
 2. **Deploy the Project**  
-   - Host the files on a PHP-supported hosting platform.  
+   - Host the files on a PHP-supported hosting platform or on the Localhost/apache tomcat.  
 
 3. **Database Configuration**  
    - Import the provided SQL file into a MySQL database.  
-   - Update database connection details in the configuration file.  
+   - Update database connection details in the partials/dbconn.php file.  
 
 4. **Access the Application**  
    - Open the website in a web browser using the hosting platform's URL.  
@@ -103,14 +103,34 @@ The system is designed with scalability in mind. Planned improvements include:
 
 ## Acknowledgments  
 
-Special thanks to the **Karde Grampanchayat employees** for sharing their insights and inspiring the development of this system.  
+Special thanks to the **Sandesh Rewale** and other **Karde Grampanchayat employees** for giving me this opportunity to find the solution to this problem and inspiring the development of this system.  
 
 ## Related images 
-![Dashboard](./output/dashboard.png)
 
-![Manage Records](./output/manage-records.png)
+1. Login 
+![Project Overview](OUTPUT/login.png)
 
-![ Tracking](./output/payment-tracking.png)
+3. Dashboard
+    ![Project Overview](OUTPUT/dashboard-1.png)
+   ![Project Overview](OUTPUT/dashboard-2-export.png)
+   ![Project Overview](OUTPUT/dashboard-3-export-report.png)
 
-![Profile Settings](./output/profile-settings.png)
+5. Manage
+    ![Project Overview](OUTPUT/manage-add-citizen.png)
+   ![Project Overview](OUTPUT/manage-add-year.png)
+    ![Project Overview](OUTPUT/edit-1.png)
+   ![Project Overview](OUTPUT/delete.png)
+   
 
+7. Track
+    ![Project Overview](OUTPUT/track-1.png)
+   
+
+9. Profile
+     ![Project Overview](OUTPUT/profile.png)
+
+
+## While Grampanchayt karde's Employee Using System:
+ ![Project Overview](OUTPUT/GP/20241210_173617.png)
+ ![Project Overview](OUTPUT/GP/20241210_174500.png)
+ ![Project Overview](OUTPUT/GP/20241210_174743.png)
