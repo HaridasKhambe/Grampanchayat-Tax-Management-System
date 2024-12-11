@@ -77,7 +77,7 @@ This project is hosted on a free hosting platform and requires no specific hardw
 
 1. **Clone the Repository**  
    ```bash
-   git clone <[repository-url](https://github.com/HaridasKhambe/Grampanchayat-Tax-Management-System.git)>
+   git clone <https://github.com/HaridasKhambe/Grampanchayat-Tax-Management-System.git>
    ```
 2. **Deploy the Project**  
    - Host the files on a PHP-supported hosting platform or on the Localhost/apache tomcat.  
