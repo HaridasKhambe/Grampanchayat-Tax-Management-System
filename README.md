@@ -129,8 +129,13 @@ Special thanks to the **Sandesh Rewale** and other **Karde Grampanchayat employe
 9. Profile
      ![Project Overview](OUTPUT/profile.png)
 
+## Compatible / Responsive for any Devices
+ ![Project Overview](OUTPUT/GP/Screenshot_20241211_185357_Chrome.jpg)
+ ![Project Overview](OUTPUT/GP/Screenshot_20241211_185534_Chrome.jpg)
+ ![Project Overview](OUTPUT/GP/Screenshot_20241211_185631_Chrome.png)
 
 ## While Grampanchayt karde's Employee Using System:
- ![Project Overview](OUTPUT/GP/20241210_173617.png)
- ![Project Overview](OUTPUT/GP/20241210_174500.png)
+
+ ![Project Overview](OUTPUT/GP/20241210_173617.jpg)
+ ![Project Overview](OUTPUT/GP/20241210_174500.jpg)
  ![Project Overview](OUTPUT/GP/20241210_174743.png)
