@@ -133,11 +133,11 @@ Special thanks to the **Sandesh Rewale** and other **Karde Grampanchayat employe
 
  <img src="OUTPUT/GP/Screenshot_20241211_185357_Chrome.jpg" alt="Dashboard Export 1" width="600"/> 
  <img src="OUTPUT/GP/Screenshot_20241211_185534_Chrome.jpg" alt="Dashboard Export 1" width="600"/> 
- <img src="OUTPUT/GP/Screenshot_20241211_185631_Chrome.png" alt="Dashboard Export 1" width="600"/> 
+ <img src="OUTPUT/GP/Screenshot_20241211_185631_Chrome.jpg" alt="Dashboard Export 1" width="600"/> 
  
 
 ## While Grampanchayt karde's Employee Using System:
 
  ![Project Overview](OUTPUT/GP/20241210_173617.jpg)
  ![Project Overview](OUTPUT/GP/20241210_174500.jpg)
- ![Project Overview](OUTPUT/GP/20241210_174743.png)
+ ![Project Overview](OUTPUT/GP/20241210_174743.jpg)
