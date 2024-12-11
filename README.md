@@ -130,6 +130,11 @@ Special thanks to the **Sandesh Rewale** and other **Karde Grampanchayat employe
      ![Project Overview](OUTPUT/profile.png)
 
 ## Compatible / Responsive for any Devices
+
+ <img src="OUTPUT/GP/Screenshot_20241211_185357_Chrome.jpg" alt="Dashboard Export 1" width="600"/> 
+ <img src="OUTPUT/GP/OUTPUT/GP/Screenshot_20241211_185534_Chrome.jpg" alt="Dashboard Export 1" width="600"/> 
+ <img src="OUTPUT/GP/OUTPUT/GP/Screenshot_20241211_185631_Chrome.png" alt="Dashboard Export 1" width="600"/> 
+ 
  ![Project Overview](OUTPUT/GP/Screenshot_20241211_185357_Chrome.jpg)
  ![Project Overview](OUTPUT/GP/Screenshot_20241211_185534_Chrome.jpg)
  ![Project Overview](OUTPUT/GP/Screenshot_20241211_185631_Chrome.png)
